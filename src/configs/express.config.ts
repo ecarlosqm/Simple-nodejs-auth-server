@@ -36,7 +36,7 @@ export const configExpress = (expressApp: Express) => {
 
     expressApp.get('/',(req, res, next) => {
         if (!req.user) { 
-            res.status(httpStatus.UNAUTHORIZED).send('Por favor inicia session');
+            res.status(httpStatus.UNAUTHORIZED).send('Please login');
             res.end();
         } else {
             res.send(`Estas dentro ${(req.user as User).name.name}`);
