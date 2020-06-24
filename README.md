@@ -9,7 +9,7 @@ npm run serve
 ```
 
 ## Signin
-GET: localhost:3000/signin/[userId]
+POST: localhost:3000/signin/[userId]
 ```json
 {
 	"username": "[user]",
@@ -18,7 +18,7 @@ GET: localhost:3000/signin/[userId]
 ```
 
 ## Login
-GET: localhost:3000/login
+POST: localhost:3000/login
 ```json
 {
 	"username": "[user]",
