@@ -5,6 +5,7 @@ I build this simple server to practice technologies and some concepts like DDD, 
 If you want to try it.
 
 ```bash
+npm run build
 npm run serve
 ```
 
