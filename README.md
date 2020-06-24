@@ -1,6 +1,6 @@
 # Simple Nodejs auth server
 
-I build this simple server to practice technologies and some concepts like DDD and TDD. It is not intended to be used in production.
+I build this simple server to practice technologies and some concepts like DDD, clean code and clean architecture. It is not intended to be used in production.
 
 If you want to try it.
 
