@@ -8,6 +8,10 @@ If you want to try it.
 npm run serve
 ```
 
+## You can use [Insomnia](https://insomnia.rest/) to test the API:
+
+Just import the insomnia.json file.
+
 ## Signin
 POST: localhost:3000/signin/[userId]
 ```json
