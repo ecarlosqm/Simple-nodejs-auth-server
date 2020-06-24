@@ -39,6 +39,7 @@ GET: localhost:3000/logout
 - [ ] Add aplication sevices.
   - [ ] Add user.
     - [ ] Check if the user exist.
+    - [ ] Validate UUID for userId.
   - [x] Add authenticate.
   - [x] Add password has.
 - [x] Add controller.
